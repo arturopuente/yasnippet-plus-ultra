@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: React#classComponent
+# key: rcc
+# --
+import React from 'react';
+import PropTypes from 'prop-types';
+
+class ${1:Component} extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+
+    );
+  }
+};
+
+$1.propTypes = {};
+$1.defaultProps = {};
+
+export default $1;
