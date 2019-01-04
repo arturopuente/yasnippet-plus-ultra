@@ -1,0 +1,6 @@
+#name : each_index { |i| ... }
+#group : collections
+# --
+each_index do |${i}|
+  $0
+end
