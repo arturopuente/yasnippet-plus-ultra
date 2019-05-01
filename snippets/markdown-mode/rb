@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: ruby
+# name: Ruby block
 # key: rb
 # --
-#+BEGIN_SRC ruby
+\`\`\`ruby
 $0
-#+END_SRC
+\`\`\`

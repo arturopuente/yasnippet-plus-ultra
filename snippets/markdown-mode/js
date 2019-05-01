@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: JavaScript block
+# key: js
+# --
+\`\`\`javascript
+$0
+\`\`\`
