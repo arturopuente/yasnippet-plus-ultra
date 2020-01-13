@@ -1,0 +1,6 @@
+#name : it
+#group : rspec test
+# --
+it "${1:description}" do
+  $0
+end
