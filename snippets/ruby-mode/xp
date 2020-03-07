@@ -1,0 +1,6 @@
+#name : xp
+#group : rspec test
+# --
+"${1:description}" do
+  $0
+end
