@@ -2,14 +2,7 @@
 # name: React#functionComponent
 # key: fc
 # --
-import React from 'react';
-import PropTypes from 'prop-types';
 
-const ${1:Component} = (props) => {
-  $0
+function ${1:Component}(${2:props}) {
+  return <div>${0:myComponent}</div>;
 };
-
-$1.propTypes = {};
-$1.defaultProps = {};
-
-export default $1;
