@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : className
 # --
-className={$0}
+className={styles.$0}
